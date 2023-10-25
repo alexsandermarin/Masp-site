@@ -1,24 +1,19 @@
-# masp
+**ALexsander{
 
-## Project setup
-```
-yarn install
-```
+--Criei decoraçao da sala 3d;
+--criei modo dark no site;
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+}
 
-### Compiles and minifies for production
-```
-yarn build
-```
+**Emynem{
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+}
+
+**Ramon{
+
+
+
+}
+
