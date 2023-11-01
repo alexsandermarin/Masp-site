@@ -5,9 +5,9 @@
       <div>
         <ul>
           <a href="#"><li>Acessar</li></a>
-          <a href="#"><li id="cad">Cadastrar-se</li></a>
+          <router-link id="cad" class="router" to="/criar-conta">Cadastrar-se</router-link>
         </ul>
-        <a href="#"><SunSvg /></a>
+        <a @click="Dark"><SunSvg /></a>
       </div>
     </nav>
 
@@ -17,12 +17,16 @@
 
 import SunSvg from '@/icons/SunSvg.vue';
 import LogoMasp from './LogoMasp.vue';
+import {darkMode} from '../js/darkMode'
 
 export default{
     name: 'NavbarTop',
     components : {
         SunSvg,
         LogoMasp
+    },
+    methods: {
+      Dark : darkMode
     }
 }
 
@@ -48,7 +52,7 @@ nav{
     gap: 25px;
     align-items: center;
   }
-  nav div li{
+  nav div li , nav div ul .router{
     list-style: none;
     color: #DD3526;
     font-family: 'Noto Sans', sans-serif;

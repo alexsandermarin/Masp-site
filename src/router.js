@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import SalaVirtual from './pages/Room3d.vue';
+import SingUp from './pages/SingUp.vue'
 
 const routes = [
   {
@@ -7,6 +8,11 @@ const routes = [
     name: 'SalaVirtual',
     component: SalaVirtual,
   },
+  {
+    path: '/criar-conta',
+    name: 'Singup',
+    component: SingUp
+  }
 ];
 
 const router = createRouter({
