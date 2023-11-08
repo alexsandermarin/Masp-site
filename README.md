@@ -1,3 +1,26 @@
+08/11/2023
+
+**ALexsander{
+
+--transformei em código as telas do figma que fiz na eula passada;
+--terminei de fazer variaveis de cores no CSS e apliquei no modo dark;
+--criei os temas para a página de cronograma;
+
+}
+
+**Emynem{
+
+--wireframe da tela de tela de finalizaçao de compra dos ingressos;
+
+}
+
+**Ramon{
+
+--criou dois quadros para a sala virtual;
+--ajeitou o gif da tela de criaçao de contas;
+
+}
+
 06/11/2023
 
 **ALexsander{
