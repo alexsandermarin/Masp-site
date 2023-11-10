@@ -1,3 +1,29 @@
+10/11/2023
+
+**ALexsander{
+
+--criei api usando .json;
+--fiz a conexao com pagina cronograma;
+--cards do cronograma gerados de acordo com o conteudo da api;
+--finalizei pagina de login;
+--ajustei pagina de check-out da venda de ingressos no figma;
+--configurei alguns icones .svg para se sjustar melhor;
+
+}
+
+**Emynem{
+
+--gerou imagens 
+
+}
+
+**Ramon{
+
+
+
+}
+
+
 08/11/2023
 
 **ALexsander{
