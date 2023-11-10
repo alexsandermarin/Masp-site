@@ -13,13 +13,13 @@
 
 **Emynem{
 
---gerou imagens 
+--gerou imagens para api
 
 }
 
 **Ramon{
 
-
+--explorou artes 3D;
 
 }
 
